@@ -11,3 +11,7 @@
 <li style="clear: both;"><img style="float: left;" src="https://img.icons8.com/color/1600/visual-studio.png" alt="Word to html" width="45" />Visual Studio: an IDE from Microsoft.</li>
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://data.whicdn.com/images/36966430/original.gif" alt="" width="420" height="420" /></p>
