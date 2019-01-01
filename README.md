@@ -11,9 +11,3 @@
 <li style="clear: both;"><img style="float: left;" src="https://img.icons8.com/color/1600/visual-studio.png" alt="Word to html" width="45" />Visual Studio: an IDE from Microsoft.</li>
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<h2 style="color: #2e6c80;"><span style="color: #993366;">Running the game:</span></h2>
-<p>&nbsp;</p>
-<p><span style="color: #993366;">To run the game, download the repository AND press on the solution (.sln), all the libraries are already included.</span></p>
-<p>&nbsp;</p>
-<p><span style="color: #993366;"><img style="display: block; margin-left: auto; margin-right: auto;" src=" http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-59.gif" alt="" width="420" height="420" /></span></p>
-<p>&nbsp;</p>
