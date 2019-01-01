@@ -15,5 +15,5 @@
 <p>&nbsp;</p>
 <p><span style="color: #993366;">To run the game, download the repository AND press on the solution (.sln), all the libraries are already included.</span></p>
 <p>&nbsp;</p>
-<p><span style="color: #993366;"><img style="display: block; margin-left: auto; margin-right: auto;" src=" https://data.whicdn.com/images/36966430/original.gif" alt="" width="420" height="420" /></span></p>
+<p><span style="color: #993366;"><img style="display: block; margin-left: auto; margin-right: auto;" src=" http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-59.gif" alt="" width="420" height="420" /></span></p>
 <p>&nbsp;</p>
