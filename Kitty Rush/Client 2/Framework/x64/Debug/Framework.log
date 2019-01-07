@@ -1,0 +1,25 @@
+﻿  KittyArena.cpp
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(51): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(52): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(250): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(256): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(278): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(304): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(311): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(318): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(325): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(332): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\soran\desktop\kitty rush\client 2\framework\kittyarena.cpp(902): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Framework.vcxproj -> C:\Users\soran\Desktop\Kitty Rush\Client 2\x64\Debug\Server +Client2.exe
